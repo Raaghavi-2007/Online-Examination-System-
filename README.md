@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No: 212225040321
-# Name: RAAGHAVI S
-# Date: 01/09/2026
+# Reg No: 
+# Name: 
+# Date: 
 
 
 # AIM:
@@ -39,9 +39,6 @@ Specifying the context and requirements of a system
 
 
 
-<img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/ab1617cc-e023-457a-ac9d-bb064e144c0c" />
-
-
 
 
 # CLASS DIAGRAM
@@ -58,8 +55,6 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-<img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/1d80b44a-86e5-48ea-992e-93eb0518e9a0" />
-
 
 # COMMUNICTION DIAGRAM:
 
@@ -67,7 +62,6 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-<img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/4a1a6750-545a-434d-ad1a-5e42eb5bf696" />
 
 
 
@@ -81,7 +75,6 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/9ef733c3-c71b-4856-8b99-af007f86298f" />
 
 
 
@@ -99,7 +92,6 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-<img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/6a77bc4a-4dc6-43ed-8f95-0ae5922dfa32" />
 
 
 
@@ -121,7 +113,6 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-<img width="1920" height="1080" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/a2452436-3bec-42f4-b419-6db6304b42fa" />
 
 
 
